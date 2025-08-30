@@ -7,5 +7,5 @@ Before running the demo, you need to build the library first
 ## build
 
 ```bash
-yarn g:build
+yarn build
 ```
