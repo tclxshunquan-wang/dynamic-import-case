@@ -1,4 +1,4 @@
-# @example/example-rspack
+# dynamic-import-case
 
 website demo for [rspack](https://www.rspack.dev/guide/introduction.html)
 
